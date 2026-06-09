@@ -17,13 +17,13 @@ Documentar la propuesta, narrativa, capacidades, beneficios, casos de uso y mens
 
 CoolBit AI es una plataforma de inteligencia artificial aplicada a centros de datos e infraestructura crítica.
 
-La plataforma transforma datos operativos en información accionable para mejorar visibilidad, eficiencia energética, reducción de riesgos y continuidad operacional.
+La plataforma conecta datos operativos con la infraestructura y los transforma en información accionable a través de una arquitectura multi-agéntica para mejorar visibilidad, eficiencia energética, reducción de riesgos y continuidad operacional.
 
-CoolBit AI no solo monitorea. Aprende del comportamiento específico de cada sitio, identifica desviaciones, prioriza alertas por impacto operativo y ayuda a orientar decisiones basadas en datos.
+CoolBit AI no solo monitorea. Aprende del comportamiento específico de cada sitio, identifica desviaciones, prioriza alertas por impacto operativo y ayuda a orientar decisiones basadas en datos y en reportes con valor de auditoría.
 
 ## Descripción corta
 
-CoolBit AI transforma datos operativos del centro de datos en información accionable para mejorar eficiencia energética, reducir riesgos y fortalecer la continuidad operacional.
+CoolBit AI transforma datos operativos del centro de datos en información accionable a través de una arquitectura multi-agéntica para mejorar visibilidad, eficiencia energética, reducción de riesgos y continuidad operacional.
 
 ## Descripción comercial
 
@@ -31,7 +31,7 @@ CoolBit AI ayuda a los equipos responsables de infraestructura crítica a pasar 
 
 ## Descripción ejecutiva
 
-CoolBit AI permite conectar infraestructura crítica, datos operativos e inteligencia artificial para generar visibilidad, anticipación y recomendaciones accionables que apoyan la continuidad, eficiencia y toma de decisiones en centros de datos.
+CoolBit AI permite conectar infraestructura crítica, datos operativos e inteligencia artificial para generar visibilidad, anticipación y recomendaciones accionables que apoyan la continuidad, la optimización de recursos (energético, humano y material) y toma de decisiones en centros de datos.
 
 ## Rol dentro del portafolio
 
@@ -95,7 +95,7 @@ CoolBit AI puede integrarse con sistemas existentes para consolidar información
 - Datos térmicos.
 - Datos ambientales.
 - Sistemas de alertamiento.
-- Canales operativos internos.
+- Canales operativos internos (Teams, Correo electrónico).
 
 #### Valor
 
@@ -107,7 +107,7 @@ CoolBit AI puede integrarse con sistemas existentes para consolidar información
 
 ### Detección temprana de desviaciones
 
-La plataforma utiliza modelos analíticos para identificar comportamientos anómalos frente al comportamiento esperado del sitio.
+La plataforma utiliza modelos de Machine Learning para identificar comportamientos anómalos frente al comportamiento esperado del sitio.
 
 #### Valor
 
@@ -136,9 +136,9 @@ La plataforma busca orientar al usuario sobre posibles acciones, no solo mostrar
 #### Valor
 
 - Mejores decisiones operativas.
-- Acciones más claras para equipos técnicos.
+- Llamado a la acción claro para equipos técnicos.
 - Reducción de ambigüedad.
-- Información orientada a operación real.
+- Información contextualizada con operación real.
 - Mayor conexión entre datos y acciones.
 
 ### Aprendizaje adaptativo
@@ -152,6 +152,7 @@ CoolBit AI aprende del comportamiento específico del sitio para mantener análi
 - Lectura más precisa del comportamiento del sitio.
 - Adaptación a condiciones cambiantes.
 - Mejor interpretación del “normal” operativo de cada infraestructura.
+- Identificación de causa-raíz.
 
 ### Optimización energética
 
@@ -163,7 +164,7 @@ La plataforma ayuda a identificar patrones, desviaciones y oportunidades relacio
 - Análisis de consumo y operación.
 - Soporte para decisiones de optimización.
 - Conexión con objetivos ESG y eficiencia energética.
-- Mejor entendimiento del impacto energético de las condiciones operativas.
+- Identificación de últimas tendencias vs comportamiento base.
 
 ### Integración con operación diaria
 
@@ -193,7 +194,8 @@ CoolBit AI ayuda a:
 - Preparar la operación para modelos más predictivos.
 - Reducir ruido operativo.
 - Mejorar trazabilidad de eventos y decisiones.
-- Conectar infraestructura física con inteligencia aplicada.
+- Conectar infraestructura física con su operación.
+- Correlacionar operación con SOPs e infraestructura con la documentación técnica que la respalda.
 
 ## Audiencias clave
 
@@ -217,7 +219,7 @@ CoolBit AI puede dirigirse a:
 
 ### Dirección
 
-CoolBit AI permite conectar datos operativos con decisiones estratégicas para mejorar eficiencia, continuidad y control sobre infraestructura crítica.
+CoolBit AI permite conectar datos operativos con decisiones estratégicas para mejorar eficiencia, continuidad y control sobre infraestructura crítica priorizando un ROI palpable.
 
 ### Operaciones
 
@@ -229,7 +231,7 @@ CoolBit AI permite analizar comportamiento real, detectar patrones anómalos y e
 
 ### Facility Management
 
-CoolBit AI ofrece visibilidad sobre condiciones operativas, ambientales y energéticas para mejorar control y seguimiento.
+CoolBit AI ofrece visibilidad sobre condiciones operativas, ambientales y energéticas para mejorar control y seguimiento integrándose a los sistemas existentes clave para la gestión del Data Center. Convierte el CAPEX reactivo en OPEC con un ROI palpable.
 
 ### Sostenibilidad
 
@@ -241,7 +243,7 @@ CoolBit AI permite aplicar inteligencia artificial a problemas reales de operaci
 
 ### Marketing y ventas
 
-La narrativa debe posicionar CoolBit AI como una plataforma de inteligencia aplicada a la operación real de infraestructura crítica, evitando promesas absolutas o claims de automatización total.
+La narrativa debe posicionar CoolBit AI como una plataforma de inteligencia aplicada a la operación real de infraestructura crítica, evitando promesas absolutas o claims de automatización total. Garantiza la optimización de recursos y la convierte el CAPEX reactivo en OPEX.
 
 ## Casos de uso
 
@@ -263,7 +265,7 @@ Clasificar eventos según riesgo, impacto operativo o consumo energético.
 
 ### Soporte a mantenimiento
 
-Usar datos y patrones para orientar acciones de revisión, mantenimiento o intervención técnica.
+Usar datos y patrones para orientar acciones de revisión, mantenimiento o intervención técnica respaldado en documentación de SOPs y fichas técnicas.
 
 ### Preparación para AI Factories
 
@@ -305,15 +307,15 @@ RFCode puede aportar datos ambientales y de activos para enriquecer la visibilid
 
 ### Ekkosoft Critical / EkkoSense
 
-Ekkosoft Critical / EkkoSense puede complementar la visibilidad térmica y operativa, mientras CoolBit AI ayuda a conectar datos, patrones, alertas y recomendaciones accionables.
+Ekkosoft Critical / EkkoSense puede complementar la visibilidad térmica y energética, mientras CoolBit AI ayuda a conectar datos, patrones, alertas y recomendaciones accionables.
 
 ### Liquid Cooling
 
 CoolBit AI puede aportar visibilidad operativa para entornos de alta densidad térmica, donde el monitoreo y análisis de variables críticas se vuelve más relevante.
 
-### Mango OS / Radix IoT
+### BMS
 
-Mango OS / Radix IoT puede funcionar como una capa de integración y monitoreo que complemente la inteligencia aplicada de CoolBit AI.
+Un BMS puede funcionar como una capa de integración y monitoreo que complemente la inteligencia aplicada de CoolBit AI.
 
 ## Mensaje comercial
 
@@ -339,10 +341,11 @@ La infraestructura crítica ya genera datos. CoolBit AI ayuda a convertirlos en 
 - Dale inteligencia a tu infraestructura.
 - Decisiones operativas basadas en datos.
 - Tecnología que aprende del sitio.
+- Conecta infraestructura con operación.
+- Elimina silos de información.
 
 ## Claims permitidos
 
-- CoolBit AI transforma datos operativos en información accionable.
 - CoolBit AI ayuda a mejorar la eficiencia energética, reducir riesgos y fortalecer la continuidad operacional.
 - CoolBit AI permite identificar desviaciones antes de que se conviertan en incidentes.
 - CoolBit AI aprende del comportamiento específico de cada sitio.
@@ -352,6 +355,8 @@ La infraestructura crítica ya genera datos. CoolBit AI ayuda a convertirlos en 
 - CoolBit AI aplica inteligencia artificial a problemas reales de infraestructura crítica.
 - CoolBit AI ayuda a convertir monitoreo en decisiones accionables.
 - CoolBit AI fortalece la visibilidad operativa de centros de datos.
+- Coolbit AI impulsa la madurez operativa del Data Center.
+- 
 
 ## Claims a evitar
 
@@ -380,7 +385,7 @@ CoolBit AI puede complementar sistemas DCIM al aplicar analítica e inteligencia
 
 ### No necesitamos más dashboards
 
-CoolBit AI no debe comunicarse solo como dashboard. Su valor está en transformar datos en información accionable, priorizar alertas y apoyar decisiones operativas.
+CoolBit AI no debe comunicarse solo como dashboard. Su valor está en transformar datos en información accionable, priorizar alertas y apoyar decisiones operativas. Su interfaz e integraciones permiten hacer consultas en lenguaje natural respaldadas por contexto y documentación que convierten el dato del dashboard en recomendaciones accionables.
 
 ### No queremos automatización total
 
@@ -396,7 +401,7 @@ CoolBit AI ayuda a priorizar alertas según impacto, riesgo y contexto operativo
 
 ### No sabemos si estamos listos para IA
 
-El punto de partida puede ser una evaluación de madurez de datos, fuentes disponibles, sistemas existentes y objetivos operativos.
+El punto de partida puede ser una evaluación de madurez de datos, fuentes disponibles, sistemas existentes y objetivos operativos. La IA es el soporte operativo, no el reemplazo de infraestructura.
 
 ## Preguntas frecuentes
 
@@ -426,11 +431,11 @@ Su foco principal son centros de datos e infraestructura crítica, pero puede re
 
 ### ¿Qué diferencia a CoolBit AI de un dashboard?
 
-Un dashboard muestra datos. CoolBit AI busca interpretar datos, detectar desviaciones, priorizar alertas y generar recomendaciones accionables.
+Un dashboard muestra datos. CoolBit AI busca interpretar datos, detectar desviaciones, priorizar alertas y generar recomendaciones accionables. Coolbit AI se comunica en lenguaje natural, interpreta el dashboard y lo comunica por los canales más importante de comunicación (interfaz web propia, Whatsapp, Teams).
 
 ### ¿Qué necesita CoolBit AI para funcionar?
 
-Necesita fuentes de datos disponibles, variables relevantes, objetivos operativos claros e integración técnica según el alcance definido.
+Necesita fuentes de datos disponibles con integración a protocolos de comunicación industrial y/o APIs, variables relevantes, objetivos operativos claros e integración en servidor local, en la nube o infraestructura híbrida.
 
 ## Recomendaciones de uso
 
