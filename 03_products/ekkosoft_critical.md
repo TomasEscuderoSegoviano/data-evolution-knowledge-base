@@ -1,9 +1,9 @@
 ---
-title: Ekkosoft Critical / EkkoSense
+title: Ekkosoft Critical / Gemelo Digital
 category: products
 owner: Marketing / Producto
 status: draft
-last_updated: 2026-05-25
+last_updated: 2026-05-09
 source: Portafolio de Soluciones y Servicios 2026
 ---
 
@@ -11,31 +11,31 @@ source: Portafolio de Soluciones y Servicios 2026
 
 ## Objetivo
 
-Documentar la propuesta, narrativa, capacidades, beneficios y mensajes clave de Ekkosoft Critical / EkkoSense dentro del portafolio de Data Evolution.
+Documentar la propuesta, narrativa, capacidades, beneficios y mensajes clave de Ekkosoft Critical / Gemelo Digital dentro del portafolio de Data Evolution.
 
 Este archivo sirve como base para presentaciones comerciales, propuestas, campañas, landing pages, contenidos de LinkedIn, emails, guiones, materiales de ventas y conversaciones estratégicas sobre gemelos digitales operativos, análisis térmico, visualización 3D, optimización energética e infraestructura crítica.
 
 ## Descripción general
 
-Ekkosoft Critical / EkkoSense es una solución de gemelo digital operativo en 3D para centros de datos e infraestructura crítica.
+Ekkosoft Critical / Gemelo Digital es una solución de gemelo digital operativo en 3D para centros de datos e infraestructura crítica.
 
 Permite visualizar, analizar y optimizar el comportamiento térmico, la distribución de carga, el flujo de aire, la capacidad real y las oportunidades de eficiencia energética mediante datos operativos, analítica y modelos de comportamiento del sitio.
 
 ## Descripción corta
 
-Ekkosoft Critical / EkkoSense permite visualizar, analizar y optimizar el comportamiento térmico y operativo de centros de datos mediante gemelos digitales, datos operativos y analítica avanzada.
+Ekkosoft Critical / Gemelo Digital permite visualizar, analizar y optimizar el comportamiento térmico y operativo de centros de datos mediante gemelos digitales, datos operativos y analítica avanzada.
 
 ## Descripción comercial
 
-Ekkosoft Critical / EkkoSense ayuda a los equipos responsables de centros de datos a tomar mejores decisiones sobre capacidad, eficiencia térmica, distribución de carga y operación energética a partir de una representación digital del sitio conectada con datos reales.
+Ekkosoft Critical / Gemelo Digital ayuda a los equipos responsables de centros de datos a tomar mejores decisiones sobre capacidad, eficiencia térmica, distribución de carga y operación energética a partir de una representación digital del sitio conectada con datos reales.
 
 ## Descripción ejecutiva
 
-Ekkosoft Critical / EkkoSense permite convertir el centro de datos en un entorno digital analizable, donde los equipos pueden entender condiciones térmicas, identificar riesgos operativos y tomar decisiones con mayor visibilidad sobre capacidad, eficiencia y desempeño.
+Ekkosoft Critical / Gemelo Digital permite convertir el centro de datos en un entorno digital analizable, donde los equipos pueden entender condiciones térmicas, identificar riesgos operativos y tomar decisiones con mayor visibilidad sobre capacidad, eficiencia y desempeño.
 
 ## Rol dentro del portafolio
 
-Ekkosoft Critical / EkkoSense pertenece a la etapa de:
+Ekkosoft Critical / Gemelo Digital pertenece a la etapa de:
 
 **Inteligencia, monitoreo y optimización**
 
@@ -53,7 +53,7 @@ También se conecta con:
 
 ## Mensaje rector
 
-Ekkosoft Critical / EkkoSense permite analizar el comportamiento térmico y operativo del centro de datos para tomar decisiones de capacidad, eficiencia y crecimiento con mayor visibilidad.
+Ekkosoft Critical / Gemelo Digital permite analizar el comportamiento térmico y operativo del centro de datos para tomar decisiones de capacidad, eficiencia y crecimiento con mayor visibilidad.
 
 ## Problema que resuelve
 
@@ -72,7 +72,7 @@ Los centros de datos pueden enfrentar problemas como:
 
 ## Propuesta de valor
 
-Ekkosoft Critical / EkkoSense permite evaluar el comportamiento térmico y operativo del centro de datos mediante un gemelo digital operativo, ayudando a entender capacidad, optimizar condiciones térmicas y mejorar decisiones antes de ejecutar cambios físicos.
+Ekkosoft Critical / Gemelo Digital permite evaluar el comportamiento térmico y operativo del centro de datos mediante un gemelo digital operativo, ayudando a entender capacidad, optimizar condiciones térmicas y mejorar decisiones antes de ejecutar cambios físicos.
 
 ## Capacidades principales
 
@@ -86,6 +86,7 @@ Permite representar el entorno físico del centro de datos en una vista digital 
 - Comprensión del comportamiento real de la infraestructura.
 - Análisis visual de condiciones térmicas.
 - Soporte para decisiones técnicas y ejecutivas.
+- Recomendaciones de la IA que analiza la instalación usando modelos matemáticos.
 
 ### Análisis térmico
 
@@ -97,6 +98,7 @@ Permite evaluar temperatura, flujo de aire, distribución de carga y comportamie
 - Validación de capacidad térmica.
 - Evaluación de condiciones de crecimiento.
 - Mejores decisiones sobre enfriamiento.
+- Optimización de distribución de activos dentro del Data Center.
 
 ### Análisis de carga
 
@@ -144,7 +146,7 @@ Puede apoyarse en datos operativos y modelos analíticos para detectar patrones,
 
 ## Variables que puede evaluar
 
-Ekkosoft Critical / EkkoSense puede apoyar el análisis de:
+Ekkosoft Critical / Gemelo Digital puede apoyar el análisis de:
 
 - Distribución térmica del centro de datos.
 - Flujo de aire.
@@ -159,7 +161,7 @@ Ekkosoft Critical / EkkoSense puede apoyar el análisis de:
 
 ## Beneficios
 
-Ekkosoft Critical / EkkoSense ayuda a:
+Ekkosoft Critical / Gemelo Digital ayuda a:
 
 - Visualizar el comportamiento térmico del centro de datos.
 - Evaluar condiciones operativas antes de cambios físicos.
@@ -171,27 +173,27 @@ Ekkosoft Critical / EkkoSense ayuda a:
 - Preparar infraestructura para mayores densidades.
 - Reducir incertidumbre técnica.
 - Fortalecer la gobernanza operativa con datos.
+- Recibe recomendaciones directas de cambios en la infraestructura (cambios de setpoint, retiro de equipos/ventilación, cambios en piso falso).
+- Detección de anomalías en Liquid Cooling (minimiza riesgos).
 
 ## Audiencias clave
 
-Ekkosoft Critical / EkkoSense puede dirigirse a:
+Ekkosoft Critical / Gemelo Digital puede dirigirse a:
 
 - Directores de tecnología.
 - Directores de operaciones.
 - Responsables de centros de datos.
 - Facility managers.
 - Equipos de ingeniería.
-- Equipos de mantenimiento.
 - Responsables de eficiencia energética.
 - Responsables de continuidad operativa.
 - Equipos de sustentabilidad.
-- Operadores de infraestructura crítica.
 
 ## Mensajes por audiencia
 
 ### Dirección
 
-Ekkosoft Critical / EkkoSense permite tomar decisiones de crecimiento, eficiencia y capacidad con mayor visibilidad sobre el comportamiento real del centro de datos.
+Ekkosoft Critical / Gemelo Digital permite tomar decisiones de crecimiento, eficiencia y capacidad con mayor visibilidad sobre el comportamiento real del centro de datos.
 
 ### Operaciones
 
@@ -203,7 +205,7 @@ La solución permite analizar carga, flujo de aire, comportamiento térmico y ca
 
 ### Facility Management
 
-El análisis térmico y operativo permite mejorar control sobre condiciones ambientales, enfriamiento y desempeño energético.
+El análisis térmico y operativo permite mejorar visibilidad sobre condiciones ambientales, enfriamiento y desempeño energético.
 
 ### Sustentabilidad
 
@@ -211,7 +213,7 @@ La visibilidad térmica y energética ayuda a identificar oportunidades de optim
 
 ### Marketing y ventas
 
-La narrativa debe posicionar Ekkosoft Critical / EkkoSense como una solución de análisis, visualización y optimización para tomar mejores decisiones en centros de datos, no como una herramienta de simulación.
+La narrativa debe posicionar Ekkosoft Critical / Gemelo Digital como una solución de análisis, visualización y optimización para tomar mejores decisiones en centros de datos, no como una herramienta de simulación.
 
 ## Casos de uso
 
@@ -233,7 +235,11 @@ Identificar oportunidades para mejorar uso de enfriamiento, reducir ineficiencia
 
 ### Evaluación de cambios en layout
 
-Analizar el impacto de modificar racks, equipos, distribución de carga o arquitectura térmica.
+Analizar el impacto de añadir racks, equipos, distribución de carga o arquitectura térmica.
+
+### Optimización de Liquid Cooling
+
+Detecta anomalías y desviaciones en sistemas de enfriamiento, principalmente Liquid Cooling, asegurando la inversión y minimizando riesgo.
 
 ### Soporte a consultoría
 
@@ -243,7 +249,7 @@ Complementar diagnósticos, análisis térmico, estudios de eficiencia y evaluac
 
 ### CoolBit AI
 
-Ekkosoft Critical / EkkoSense puede complementar la narrativa de CoolBit AI al fortalecer el análisis térmico, la visualización 3D y la visibilidad operativa.
+Ekkosoft Critical / Gemelo Digital puede complementar la narrativa de CoolBit AI al fortalecer el análisis térmico, la visualización 3D y la visibilidad operativa.
 
 ### Centros de datos
 
@@ -251,7 +257,7 @@ Se relaciona directamente con infraestructura térmica, eléctrica, carga, capac
 
 ### Consultoría
 
-Puede integrarse como herramienta de análisis para estudios térmicos, eficiencia energética, capacidad y diagnóstico.
+Puede integrarse como herramienta de análisis para análisis térmicos, eficiencia energética, capacidad y diagnóstico.
 
 ### Liquid Cooling
 
@@ -267,11 +273,11 @@ Contribuye a estrategias de eficiencia energética, trazabilidad, gobernanza tec
 
 ## Mensaje comercial
 
-Ekkosoft Critical / EkkoSense permite visualizar, analizar y optimizar el comportamiento térmico de centros de datos mediante gemelos digitales operativos, apoyando decisiones de capacidad, eficiencia y crecimiento.
+Ekkosoft Critical / Gemelo Digital permite visualizar, analizar y optimizar el comportamiento térmico de centros de datos mediante gemelos digitales operativos, apoyando decisiones de capacidad, eficiencia y crecimiento.
 
 ## Mensaje ejecutivo
 
-Ekkosoft Critical / EkkoSense ayuda a reducir incertidumbre en decisiones de infraestructura crítica, permitiendo evaluar condiciones reales de operación antes de modificar físicamente el centro de datos.
+Ekkosoft Critical / Gemelo Digital ayuda a reducir incertidumbre en decisiones de infraestructura crítica, permitiendo evaluar condiciones reales de operación antes de modificar físicamente el centro de datos.
 
 ## Mensaje editorial
 
@@ -281,7 +287,7 @@ Antes de crecer, mover carga o rediseñar enfriamiento, el centro de datos neces
 
 - Gemelo digital operativo para centros de datos.
 - Análisis térmico para decisiones críticas.
-- Visualiza antes de modificar.
+- Visualiza antes de añadir equipos.
 - Analiza capacidad antes de crecer.
 - Datos, visualización y eficiencia térmica.
 - Mayor visibilidad para infraestructura crítica.
@@ -297,6 +303,7 @@ Antes de crecer, mover carga o rediseñar enfriamiento, el centro de datos neces
 - Soporte para decisiones de crecimiento y eficiencia.
 - Preparado para escenarios de alta densidad, IA, HPC y Liquid Cooling.
 - Visualización y análisis del comportamiento térmico de infraestructura crítica.
+- Un consultor 24/7 que entiende el comportamiento de la infraestructura.
 
 ## Claims a evitar
 
@@ -332,11 +339,11 @@ La ausencia de problemas visibles no significa ausencia de ineficiencias. El an�
 
 ### Nos preocupa el costo
 
-El valor debe conectarse con reducción de incertidumbre, mejor planeación de capacidad, eficiencia energética y prevención de decisiones mal dimensionadas.
+El valor debe conectarse con reducción de incertidumbre, mejor planeación de capacidad, eficiencia energética y prevención de decisiones mal dimensionadas. El costo de Ekkosoft Critical / Gemelo Digital incluye toda la infraestructura necesaria para la operación del software, asegurando una ejecución plug-and-play.
 
 ## Preguntas frecuentes
 
-### ¿Qué es Ekkosoft Critical / EkkoSense?
+### ¿Qué es Ekkosoft Critical / Gemelo Digital?
 
 Es una solución de gemelo digital operativo para análisis térmico, visualización, monitoreo y optimización de centros de datos.
 
@@ -346,7 +353,7 @@ Sirve para visualizar y analizar el comportamiento de la infraestructura antes d
 
 ### ¿Es lo mismo que CFD?
 
-No. CFD es una técnica de simulación computacional del comportamiento de fluidos y temperatura. Ekkosoft Critical / EkkoSense debe comunicarse como gemelo digital operativo, análisis térmico, visualización 3D y optimización basada en datos operativos.
+No. CFD es una técnica de simulación computacional del comportamiento de fluidos y temperatura. Ekkosoft Critical / Gemelo Digital debe comunicarse como gemelo digital operativo, análisis térmico, visualización 3D y optimización basada en datos operativos en tiempo real.
 
 ### ¿Puede ayudar con eficiencia energética?
 
@@ -385,4 +392,4 @@ Este documento puede usarse como base para:
 
 ## Última actualización
 
-2026-05-25
+2026-06-09
