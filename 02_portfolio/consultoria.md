@@ -3,7 +3,7 @@ title: Consultoría
 category: portfolio
 owner: Marketing / Estrategia
 status: draft
-last_updated: 2026-05-25
+last_updated: 2026-09-16
 source: Portafolio de Soluciones y Servicios 2026
 ---
 
@@ -42,13 +42,10 @@ La oferta de consultoría puede incluir:
 - Proyecto ejecutivo.
 - Peer Review.
 - Data Center GAP Analysis.
-- Commissioning de centros de datos.
-- Estudios de calidad de energía.
+- Estudios de calidad de energía (`pendiente de validación de permanencia en el portafolio 2026`).
 - Consultoría en eficiencia energética.
 - Análisis térmico.
 - Simulación CFD.
-- Certificación de centros de datos.
-- Formación y programas de certificación.
 
 ## Líneas de servicio
 
@@ -72,13 +69,9 @@ Revisión técnica independiente de diseños, propuestas o proyectos para identi
 
 Evaluación de brechas entre el estado actual de un centro de datos y el estado deseado en términos de capacidad, disponibilidad, eficiencia, operación, estándares y continuidad.
 
-### Commissioning
-
-Proceso de verificación, evaluación y validación de sistemas críticos para asegurar que la infraestructura opere de acuerdo con los criterios de diseño, requerimientos técnicos y objetivos del proyecto.
-
 ### Estudios de calidad de energía
 
-Análisis de variables eléctricas que pueden afectar la estabilidad, desempeño y continuidad de la infraestructura crítica.
+Análisis de variables eléctricas que pueden afectar la estabilidad, desempeño y continuidad de la infraestructura crítica. Su permanencia en el portafolio 2026 está pendiente de validación.
 
 ### Consultoría en eficiencia energética
 
@@ -94,11 +87,11 @@ Simulación computacional del comportamiento de aire, temperatura y flujo térmi
 
 ### Certificación de centros de datos
 
-Acompañamiento técnico para procesos de certificación relacionados con estándares aplicables a diseño, construcción y operación de centros de datos.
+Esta oferta es independiente de Consultoría. Consultar [Auditoría y certificación de data centers](auditoria_certificacion_data_centers.md).
 
 ### Formación y programas de certificación
 
-Programas orientados a fortalecer capacidades técnicas de equipos responsables del diseño, operación y gestión de infraestructura crítica.
+Esta oferta es independiente de Consultoría. Consultar [Formación](formacion.md).
 
 ## Problemas que resuelve
 
@@ -170,6 +163,12 @@ La consultoría debe comunicarse como la puerta de entrada para proyectos mejor 
 
 ## Relación con otras ofertas
 
+### Puesta en marcha
+
+El Commissioning verifica, evalúa y valida sistemas críticos frente a los criterios de diseño, requerimientos técnicos y objetivos del proyecto. Su clasificación canónica es **Implementación / Puesta en marcha** y no tiene página propia en Site v1.0.
+
+La auditoría y certificación de data centers y la formación profesional se mantienen como ofertas independientes; consultar [Auditoría y certificación](auditoria_certificacion_data_centers.md) y [Formación](formacion.md).
+
 ### Centros de datos
 
 La consultoría permite definir, revisar o validar proyectos de centros de datos antes de su implementación o expansión.
@@ -214,7 +213,7 @@ Identificar oportunidades para mejorar consumo, enfriamiento, operación y desem
 
 ## Mensaje comercial
 
-Data Evolution ayuda a las organizaciones a planear y validar decisiones de infraestructura crítica mediante consultoría técnica, análisis, simulación, commissioning, certificación y evaluación de eficiencia.
+Data Evolution ayuda a las organizaciones a planear y validar decisiones de infraestructura crítica mediante consultoría técnica, diseño, análisis, simulación CFD y evaluación de eficiencia.
 
 ## Mensaje ejecutivo
 
@@ -232,8 +231,6 @@ Antes de construir, crecer u optimizar, la infraestructura crítica necesita cla
 - Análisis térmico y simulación para validar escenarios operativos.
 - Consultoría en eficiencia energética.
 - Evaluación de brechas para centros de datos.
-- Acompañamiento técnico para certificación.
-- Commissioning para validar sistemas críticos.
 - Decisiones informadas para reducir riesgos de implementación.
 
 ## Claims a evitar
@@ -291,4 +288,4 @@ Este documento puede usarse como base para:
 
 ## Última actualización
 
-2026-05-25
+2026-09-16

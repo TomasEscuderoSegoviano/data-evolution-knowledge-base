@@ -3,7 +3,7 @@ title: Alianzas estratégicas
 category: company
 owner: Marketing / Estrategia
 status: draft
-last_updated: 2026-05-24
+last_updated: 2026-09-16
 source: Portafolio de Soluciones y Servicios 2026
 ---
 
@@ -80,7 +80,7 @@ Uso recomendado:
 
 ### EPI
 
-Aliado relacionado con formación, certificación y estándares para profesionales y operaciones de centros de datos.
+Aliado con dos roles documentados: partner de formación profesional y colaborador en servicios de auditoría/certificación de data centers.
 
 Uso recomendado:
 
@@ -89,6 +89,7 @@ Uso recomendado:
 - Formación técnica.
 - Estándares de operación.
 - Desarrollo de capacidades para equipos técnicos.
+- Colaboración en auditoría y certificación de data centers.
 
 ### TIA-942
 
@@ -130,13 +131,13 @@ Uso recomendado:
 
 ### Ekkosoft Critical / EkkoSense
 
-Solución de gemelo digital interactivo para simulación térmica, análisis de carga, optimización energética y monitoreo de infraestructura crítica.
+Solución de gemelo digital interactivo para visualización 3D, análisis térmico, análisis de carga, optimización energética y monitoreo de infraestructura crítica.
 
 Uso recomendado:
 
 - Gemelos digitales.
-- CFD.
-- Simulación térmica.
+- Visualización 3D.
+- Análisis térmico.
 - Optimización energética.
 - Machine Learning aplicado a operación.
 - Entornos de alta densidad.
@@ -223,6 +224,8 @@ Mensaje sugerido:
 - Certificaciones actuales del equipo técnico.
 - Nombres oficiales de soluciones y marcas.
 - Mensajes co-branded aprobados.
+- Vigencia de la relación comercial con Delta antes de incorporarla como alianza canónica.
+- Ubicación definitiva de TIA-942 como estándar/marco, no como fabricante.
 
 ## Aplicaciones
 
@@ -241,4 +244,4 @@ Este documento debe usarse como base para:
 
 ## Última actualización
 
-2026-05-24
+2026-09-16

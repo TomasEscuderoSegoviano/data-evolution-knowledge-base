@@ -3,7 +3,7 @@ title: Ekkosoft Critical / Gemelo Digital
 category: products
 owner: Marketing / Producto
 status: draft
-last_updated: 2026-05-09
+last_updated: 2026-09-16
 source: Portafolio de Soluciones y Servicios 2026
 ---
 
@@ -50,6 +50,10 @@ También se conecta con:
 - Liquid Cooling.
 - AI Factories.
 - HPC.
+
+## Alineación con Site v1.0
+
+PAGE-07 puede construirse con las capacidades validadas de este documento: visualización 3D, análisis térmico, análisis de carga, flujo de aire, capacidad, optimización energética, detección de anomalías y apoyo a decisiones. Se mantienen como claims no aprobados la “simulación” como descriptor del producto, la predicción de fallas antes de interrupciones y el PUE predictivo, hasta que Ingeniería/Producto cierre su validación.
 
 ## Mensaje rector
 
@@ -392,4 +396,4 @@ Este documento puede usarse como base para:
 
 ## Última actualización
 
-2026-06-09
+2026-09-16

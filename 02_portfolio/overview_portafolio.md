@@ -3,253 +3,168 @@ title: Overview del portafolio
 category: portfolio
 owner: Marketing / Estrategia
 status: draft
-last_updated: 2026-05-25
-source: Portafolio de Soluciones y Servicios 2026
+last_updated: 2026-09-16
+source: 2026_09_16_portafolio_data_evolution.md
 ---
 
 # Overview del portafolio de Data Evolution
 
 ## Objetivo
 
-Documentar la estructura general del portafolio de soluciones y servicios de Data Evolution para alinear presentaciones comerciales, propuestas, campañas, landing pages, materiales institucionales y contenidos de soporte a ventas.
+Documentar la estructura canónica del portafolio de soluciones y servicios de Data Evolution para alinear sitio web, presentaciones comerciales, propuestas, campañas, automatizaciones y materiales de soporte a ventas.
 
-## Descripción general
+## Enfoque estratégico
 
-El portafolio de Data Evolution integra soluciones para infraestructura crítica, centros de datos, edificios digitales, servicios especializados y plataformas digitales con inteligencia artificial.
-
-La oferta está organizada alrededor del ciclo de vida de la infraestructura, desde la planeación y el diseño hasta la implementación, optimización, operación y continuidad.
-
-## Mensaje rector
-
-Data Evolution acompaña a sus clientes durante todo el ciclo de vida de su infraestructura crítica, integrando consultoría, implementación, soluciones digitales y servicios especializados para mejorar eficiencia, continuidad y capacidad de evolución.
+Data Evolution aborda los proyectos integrando **Personas, Procesos y Producto**. La infraestructura crítica no depende únicamente de componentes físicos: requiere conocimiento, procesos operativos y tecnología integrados a lo largo del ciclo de vida.
 
 ## Estructura del portafolio
 
-El portafolio se organiza en cuatro grandes etapas:
+La oferta se organiza en cinco bloques comerciales:
 
-1. Planeación, diseño y análisis.
-2. Implementación de infraestructura.
-3. Inteligencia, monitoreo y optimización.
-4. Operación y continuidad.
+1. **Planeación y diseño.**
+2. **Implementación.**
+3. **Optimización.**
+4. **Continuidad.**
+5. **Certificación y formación.**
 
-## 1. Planeación, diseño y análisis
+Los primeros cuatro bloques describen el ciclo de vida operativo de la infraestructura. El quinto agrupa dos familias comerciales independientes entre sí y transversales al ciclo de vida: **auditoría/certificación de data centers** y **formación profesional**.
 
-Esta etapa permite tomar mejores decisiones antes de implementar o modificar infraestructura crítica.
+## 1. Planeación y diseño
 
-Incluye servicios orientados a diagnóstico, diseño, validación técnica, eficiencia energética, certificación, formación y preparación de proyectos.
+Permite definir, revisar y validar técnicamente un proyecto antes de su implementación o modificación.
 
-### Soluciones principales
+### Capacidades principales
 
-- Consultoría especializada en centros de datos.
-- Diseño conceptual.
-- Diseño detallado.
-- Peer review.
+- Consultoría especializada para data centers.
+- Diseño conceptual / Basis of Design.
+- Diseño detallado / proyecto ejecutivo.
+- Peer Review técnico.
 - Data Center GAP Analysis.
-- Análisis térmico y simulación CFD.
-- Estudios de calidad de energía.
-- Consultoría en eficiencia energética.
-- Commissioning.
-- Certificación de centros de datos.
-- Cursos y programas de certificación.
+- Análisis térmico y CFD.
+- Estudios de eficiencia energética.
 
-### Valor para el cliente
+### Regla de clasificación
 
-- Mejor toma de decisiones desde el diseño.
-- Reducción de riesgos técnicos.
-- Validación de capacidad y crecimiento.
-- Alineación con estándares.
-- Preparación para operación futura.
-- Identificación de oportunidades de eficiencia.
+Commissioning, certificación de data centers y formación profesional **no se clasifican como servicios de Planeación y diseño** en la arquitectura canónica 2026.
 
-## 2. Implementación de infraestructura
+## 2. Implementación
 
-Esta etapa materializa la infraestructura crítica mediante la integración de sistemas físicos, eléctricos, térmicos, de conectividad y seguridad.
+Materializa el diseño mediante la integración de infraestructura física y sistemas críticos.
 
-Incluye centros de datos, edificios digitales, soluciones modulares y sistemas preparados para operación continua.
-
-### Soluciones principales
+### Capacidades principales
 
 - Centros de datos.
-- Sistema eléctrico.
-- Generadores de energía.
-- UPS.
-- PDU.
+- Infraestructura eléctrica.
 - Telecomunicaciones y cableado estructurado.
-- Fibra óptica.
-- Enfriamiento de precisión.
-- Enfriamiento avanzado.
+- Enfriamiento de precisión y avanzado.
 - Liquid Cooling.
+- Monitoreo y control de infraestructura (DCIM/BMS).
 - Seguridad física.
-- CCTV.
-- Control de acceso.
-- Sistemas contra incendio.
 - Centros de datos modulares y prefabricados.
-- Edificios digitales.
+- Edificios digitales e infraestructura inteligente.
+- Puesta en marcha.
 
-### Valor para el cliente
+### Puesta en marcha
 
-- Integración de sistemas críticos.
-- Mayor estabilidad operativa.
-- Infraestructura preparada para crecimiento.
-- Capacidad de soporte a nuevas cargas tecnológicas.
-- Despliegues acelerados mediante soluciones modulares.
-- Mejor control de entornos críticos.
+- Commissioning.
+- Fit Out — definición comercial/técnica detallada pendiente de validación.
 
-## 3. Inteligencia, monitoreo y optimización
+La **certificación de centros de datos se documenta de forma independiente** porque puede intervenir en distintas etapas del ciclo de vida.
 
-Esta etapa incorpora datos, sensores, analítica, gemelos digitales e inteligencia artificial para mejorar visibilidad, eficiencia y toma de decisiones.
+## 3. Optimización
 
-El objetivo no es solo visualizar información, sino convertir datos operativos en acciones, prioridades y oportunidades de mejora.
+Conecta infraestructura y operación mediante datos, analítica, sensores, gemelos digitales e inteligencia artificial.
 
-### Soluciones principales
+### Capacidades principales
 
-- Soluciones digitales.
 - CoolBit AI.
-- Monitoreo con inteligencia artificial.
-- Analítica avanzada.
-- Integración con BMS, DCIM y sensores.
-- Gemelos digitales.
-- Ekkosoft Critical / EkkoSense.
-- CFD aplicado a operación.
-- Monitoreo ambiental.
-- Sensores activos RFID.
-- RFCode.
-- Optimización energética.
-- Detección temprana de anomalías.
-- Priorización de alertas.
-- Recomendaciones accionables.
+- Gemelo Digital / Ekkosoft Critical / EkkoSense.
+- Monitoreo ambiental y gestión de activos con RFCode.
+- Analítica y detección de anomalías.
+- Integración con fuentes operativas como BMS, DCIM y sensores.
+- Optimización energética y soporte a decisiones.
 
-### Valor para el cliente
+### Regla temporal para Gemelo Digital
 
-- Visibilidad unificada de la operación.
-- Datos accionables para toma de decisiones.
-- Identificación temprana de desviaciones.
-- Reducción de riesgos operativos.
-- Mejora del desempeño energético.
-- Preparación para operaciones más predictivas.
-- Mayor control sobre infraestructura crítica.
+Hasta cerrar validación técnica adicional, comunicar el Gemelo Digital con lenguaje conservador: visualización 3D, análisis térmico, análisis de carga, flujo de aire, capacidad, optimización energética, detección de anomalías y apoyo a decisiones.
 
-## 4. Operación y continuidad
+Mantener fuera de claims públicos canónicos hasta validación:
 
-Esta etapa protege la inversión tecnológica y mantiene la infraestructura en condiciones adecuadas de operación.
+- “simulación” como descriptor principal de Ekkosoft/EkkoSense;
+- predicción de fallas antes de interrupciones;
+- optimización predictiva de PUE.
 
-Incluye servicios especializados que permiten dar seguimiento, soporte, mantenimiento y continuidad a entornos críticos.
+## 4. Continuidad
 
-### Soluciones principales
+Protege la inversión y el desempeño de entornos críticos durante su operación.
+
+### Capacidades principales
 
 - Servicios administrados.
 - Pólizas de servicio.
-- Mantenimiento preventivo.
-- Mantenimiento correctivo.
+- Mantenimiento preventivo y correctivo.
 - Soporte en sitio.
-- Servicio de descontaminación.
-- Estudios de partículas.
-- Acompañamiento técnico.
-- Monitoreo y seguimiento operativo.
+- Descontaminación de partículas.
+- Estudios de partículas, cuando aplique.
+- Acompañamiento operativo.
 
-### Valor para el cliente
+## 5. Certificación y formación
 
-- Mayor continuidad operativa.
-- Protección de la inversión.
-- Reducción de riesgos por falta de mantenimiento.
-- Acompañamiento especializado.
-- Mejor desempeño de infraestructura crítica.
-- Capacidad de respuesta ante necesidades operativas.
+Este bloque no debe interpretarse como una sola disciplina. Contiene dos ofertas distintas.
+
+### Auditoría y certificación de data centers
+
+Fuente canónica: `02_portfolio/auditoria_certificacion_data_centers.md`.
+
+- Servicio para infraestructura y operación de centros de datos.
+- Data Evolution ofrece el servicio en conjunto con EPI.
+- Alcances documentados: ANSI/TIA-942 y DCOS®.
+- Uptime Institute aparece en materiales de portafolio/casos, pero su alcance comercial vigente debe validarse antes de convertirlo en claim canónico del servicio.
+
+### Formación profesional
+
+Fuente canónica: `02_portfolio/formacion.md`.
+
+- Cursos y rutas profesionales desarrolladas por EPI y comercializadas localmente por Data Evolution.
+- Formación para terceros: clientes, profesionales y organizaciones.
+- No equivale a la certificación de una instalación ni a las acreditaciones internas de Data Evolution.
 
 ## Oferta transversal
 
-Además de las cuatro etapas principales, Data Evolution integra criterios transversales en su portafolio:
-
-### Eficiencia energética
-
-La eficiencia se considera desde el diseño hasta la operación, especialmente en sistemas eléctricos, térmicos, monitoreo, analítica y optimización energética.
-
 ### Sustentabilidad y ESG
 
-Las soluciones deben considerar desempeño, eficiencia, continuidad, gobernanza tecnológica, trazabilidad y uso responsable de recursos.
+ESG se mantiene como criterio transversal: eficiencia, gobernanza, trazabilidad, continuidad y uso responsable de recursos. `02_portfolio/sustentabilidad_esg.md` conserva el conocimiento especializado, pero no constituye uno de los cinco bloques principales.
 
-### Inteligencia artificial
+### Alianzas estratégicas
 
-La IA se aplica como una capa de análisis, anticipación y recomendación para mejorar la operación real de infraestructura crítica.
+Fuente canónica: `01_company/alianzas_estrategicas.md`.
 
-### Datos operativos
+Las alianzas no deben duplicarse en archivos de portafolio.
 
-Los datos permiten generar visibilidad, identificar patrones, priorizar riesgos y orientar decisiones técnicas y comerciales.
+### Acreditaciones de Data Evolution y su equipo
 
-### Estándares y certificaciones
+Fuente canónica: `01_company/acreditaciones.md`.
 
-Los estándares y certificaciones ayudan a dar estructura, validación y confianza a proyectos de infraestructura crítica.
+Acreditaciones y partnerships deben distinguirse de los servicios de certificación ofrecidos a clientes y de los cursos vendidos a terceros.
 
-## Principales líneas de oferta
+## Decisiones abiertas que no bloquean Site v1.0
 
-- Consultoría.
-- Centros de datos.
-- Edificios digitales.
-- Soluciones digitales.
-- Servicios administrados.
-- Sustentabilidad ESG.
-- Formación y certificaciones.
-- Alianzas estratégicas.
-- Casos de éxito.
-- Cobertura.
+- Definición detallada de Fit Out.
+- URL futura y página individual de Commissioning.
+- Rol comercial futuro de Mango OS y CoolFlow Analytics.
+- Claims predictivos fuertes de Ekkosoft/EkkoSense.
+- Componente de Machine Learning dentro de CFD.
+- Disponibilidad vigente de soluciones prefabricadas de 10 ft.
+- Clasificación primaria definitiva de Edificios Digitales.
+- Permanencia de Estudios de calidad de energía dentro de la oferta futura.
+- Alcance comercial vigente de Uptime Institute como servicio de certificación.
 
-## Mensaje comercial
+Estas decisiones deben permanecer documentadas como pendientes y **no convertirse automáticamente en claims públicos**.
 
-Data Evolution integra soluciones a lo largo del ciclo de vida de la infraestructura crítica: planeación, implementación, optimización y continuidad.
+## Mensaje rector
 
-## Mensaje ejecutivo
-
-El portafolio de Data Evolution permite acompañar a organizaciones con operaciones críticas desde el diseño de su infraestructura hasta su operación continua, integrando tecnología, datos, inteligencia artificial y servicios especializados.
-
-## Mensaje editorial
-
-La evolución de la infraestructura crítica requiere una visión conectada: diseñar con datos, implementar con precisión, optimizar con inteligencia y operar con continuidad.
-
-## Casos de uso del portafolio
-
-Este overview puede utilizarse para:
-
-- Presentaciones comerciales.
-- Company profile.
-- Portafolio de soluciones.
-- Sitio web.
-- Landing pages.
-- Campañas institucionales.
-- Contenidos de LinkedIn.
-- Emails comerciales.
-- Briefs para eventos.
-- Documentos de soporte a ventas.
-- Capacitación interna.
-
-## Recomendaciones de uso
-
-- Usar esta estructura como mapa principal del portafolio.
-- Evitar presentar soluciones como piezas aisladas.
-- Conectar cada oferta con una etapa del ciclo de vida.
-- Adaptar el mensaje según el tipo de cliente, industria y necesidad.
-- Validar claims técnicos antes de publicar materiales externos.
-- Conectar soluciones digitales con problemas operativos reales.
-- Diferenciar claramente implementación, optimización y continuidad.
-
-## Claims permitidos
-
-- Soluciones integradas a lo largo del ciclo de vida de la infraestructura.
-- Planeación, implementación, optimización y continuidad para entornos críticos.
-- Infraestructura crítica preparada para nuevas cargas tecnológicas.
-- Inteligencia, monitoreo y optimización aplicados a la operación real.
-- Servicios especializados para continuidad operativa.
-- Datos accionables para mejorar decisiones en infraestructura crítica.
-
-## Claims a evitar
-
-- Solución única para cualquier necesidad.
-- Disponibilidad total garantizada.
-- Ahorros garantizados sin diagnóstico.
-- Automatización total sin intervención humana.
-- Cobertura global sin validación.
-- Implementación inmediata sin análisis previo.
-- Eliminación total de riesgos operativos.
+Data Evolution integra capacidades a lo largo del ciclo de vida de infraestructura crítica: define y valida, implementa, optimiza y sostiene la operación, complementando el ciclo con auditoría/certificación y formación profesional especializada.
 
 ## Última actualización
 
-2026-05-25
+2026-09-16
