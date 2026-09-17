@@ -3,7 +3,7 @@ title: Soluciones digitales
 category: portfolio
 owner: Marketing / Estrategia
 status: draft
-last_updated: 2026-06-09
+last_updated: 2026-09-16
 source: Portafolio de Soluciones y Servicios 2026
 ---
 
@@ -44,8 +44,7 @@ La oferta de soluciones digitales puede incluir:
 - Integración con BMS.
 - Integración con DCIM.
 - Integración con sensores ambientales.
-- Gemelos digitales (marcaEkkosoft Critical / EkkoSense).
-- CFD aplicado a operación.
+- Gemelo Digital (Ekkosoft Critical / EkkoSense).
 - Monitoreo ambiental.
 - Sensores activos RFID (marca RFCode).
 - Detección de anomalías.
@@ -101,9 +100,9 @@ Orquesta varios agentes de IA entrenados con actividades críticas en la gestió
 - Información accionable para equipos técnicos.
 - Unificación de platafomras y sistemas a través del orquestador central Coolbit AI.
 
-### Gemelo digital interactivo
+### Gemelo Digital / Ekkosoft Critical / EkkoSense
 
-Los gemelos digitales permiten duplicar y analizar la infraestructura crítica para apoyar decisiones de diseño, operación y optimización.
+Los gemelos digitales permiten visualizar y analizar la infraestructura crítica para apoyar decisiones de diseño, operación y optimización.
 
 Data Evolution puede integrar soluciones como Ekkosoft Critical / EkkoSense para análisis térmico, optimización energética y monitoreo de centros de datos.
 
@@ -114,14 +113,15 @@ Es un consultor sobre tu infraestructura que trabaja 24/7
 #### Capacidades
 
 - Visualización 3D del entorno físico.
-- Optimización térmica.
-- Análisis de carga y distribución de flujo aire.
-- Evaluación de distribución térmica.
-- Evaluación de flujo de aire.
+- Análisis térmico.
+- Análisis de carga.
+- Análisis de flujo de aire.
+- Análisis de capacidad.
 - Análisis de impacto por cambios en layout, carga o enfriamiento.
 - Validación de capacidad antes de modificaciones físicas.
 - Detección de anomalías mediante modelos analíticos.
-- Optimización de desempeño energético.
+- Optimización energética.
+- Apoyo a decisiones.
 
 #### Valor para el cliente
 
@@ -171,6 +171,8 @@ Disminuyen el cableado dentro del Data Center, son inalámbricos y permiten la i
 ### Integración con sistemas existentes
 
 Las soluciones digitales deben integrarse con la operación real del cliente, incluyendo sistemas existentes de monitoreo, automatización, gestión de edificios o infraestructura de centros de datos.
+
+BMS y DCIM son fuentes y sistemas de gestión; CoolBit AI, el Gemelo Digital y otras soluciones digitales conforman una capa distinta de analítica, inteligencia y optimización sobre los datos disponibles.
 
 #### Sistemas relacionados
 
@@ -353,6 +355,8 @@ La infraestructura crítica ya genera datos. El reto es convertirlos nes: antici
 - Disponibilidad total garantizada.
 - Integración inmediata con cualquier sistema sin validación técnica.
 - Los Gemelos Digitales simulan escenarios y eventos.
+- Ekkosoft/EkkoSense predice fallas antes de interrupciones.
+- Ekkosoft/EkkoSense ofrece optimización predictiva de PUE.
 
 ## Preguntas frecuentes
 
@@ -386,6 +390,7 @@ La IA debe comunicarse como una capa de análisis, anticipación y recomendació
 - No prometer ahorros, autonomía, simulación o predicción total sin diagnóstico.
 - Relacionar soluciones digitales con eficiencia, continuidad y toma de decisiones.
 - Promover la digitalización de infraestructura hacia decisiones basadas en datos.
+- Mantener Mango OS y CoolFlow Analytics como referencias vigentes mientras su rol comercial futuro permanece diferido.
 
 ## Aplicaciones
 
@@ -404,4 +409,4 @@ Este documento puede usarse como base para:
 
 ## Última actualización
 
-2026-06-09
+2026-09-16

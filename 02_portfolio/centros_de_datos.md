@@ -3,7 +3,7 @@ title: Centros de datos
 category: portfolio
 owner: Marketing / Estrategia
 status: draft
-last_updated: 2026-05-25
+last_updated: 2026-09-16
 source: Portafolio de Soluciones y Servicios 2026
 ---
 
@@ -47,15 +47,17 @@ La oferta de centros de datos puede incluir:
 - Fibra óptica.
 - Enfriamiento de precisión.
 - Enfriamiento avanzado.
-- Liquid Cooling.
+- [Liquid Cooling](../03_products/liquid_cooling.md).
 - Seguridad física.
 - CCTV.
 - Control de acceso.
 - Sistema contra incendios.
 - Centros de datos modulares.
 - Centros de datos prefabricados.
-- Soluciones contenidas de 10, 20 y 40 ft.
-- Integración con monitoreo y plataformas digitales.
+- Soluciones contenidas de 20 y 40 ft; disponibilidad de 10 ft pendiente de validación.
+- Monitoreo y control (DCIM/BMS) como capacidad de implementación.
+- Integración con plataformas digitales de analítica e inteligencia.
+- Puesta en marcha mediante Commissioning y Fit Out (`definición detallada pendiente de validación`).
 
 ## Líneas de solución
 
@@ -144,6 +146,8 @@ Esta línea es especialmente relevante para escenarios de inteligencia artificia
 - Mayor control en entornos de alta demanda.
 - Evolución hacia infraestructura preparada para AI Factories.
 
+Liquid Cooling se mantiene como una solución de implementación. Consultar [Liquid Cooling](../03_products/liquid_cooling.md) para su fuente de producto.
+
 ### Seguridad física
 
 La seguridad física es un componente crítico para mitigar riesgos operativos, prevenir accesos no autorizados, detectar eventos y contener incidentes que puedan comprometer la disponibilidad del centro de datos.
@@ -164,6 +168,25 @@ La seguridad física es un componente crítico para mitigar riesgos operativos, 
 - Mayor trazabilidad operativa.
 - Reducción de riesgos físicos.
 
+### Monitoreo y control (DCIM/BMS)
+
+La implementación puede integrar DCIM y BMS para supervisión, control y gestión operativa de la infraestructura. Estos sistemas se distinguen de la capa de analítica, inteligencia y optimización documentada en [Soluciones digitales](soluciones_digitales.md).
+
+#### Capacidades
+
+- Integración de fuentes y sistemas de gestión.
+- Supervisión y control de variables operativas.
+- Conexión con plataformas digitales de analítica e inteligencia.
+
+### Puesta en marcha
+
+La puesta en marcha forma parte de Implementación e incluye:
+
+- Commissioning.
+- Fit Out (`definición detallada pendiente de validación`).
+
+La certificación de data centers no es un subservicio de Puesta en marcha. Se documenta como oferta independiente en [Auditoría y certificación de data centers](auditoria_certificacion_data_centers.md).
+
 ### Centros de datos modulares y prefabricados
 
 Los centros de datos modulares y prefabricados permiten despliegues acelerados, expansión progresiva y control de costos.
@@ -172,7 +195,7 @@ Son soluciones contenidas que pueden adaptarse a necesidades específicas de cap
 
 #### Capacidades
 
-- Soluciones de 10 ft.
+- Soluciones de 10 ft (`disponibilidad pendiente de validación`; el portafolio 2026 consolidado solo muestra 20 y 40 ft).
 - Soluciones de 20 ft.
 - Soluciones de 40 ft.
 - Infraestructura contenida.
@@ -381,4 +404,4 @@ Este documento puede usarse como base para:
 
 ## Última actualización
 
-2026-05-25
+2026-09-16
